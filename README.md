@@ -1,1 +1,1 @@
-# horaire-class-secondaire
+# horaire-classes-secondaire
